@@ -1,0 +1,8 @@
+﻿#ifndef CODECRAFTERS_INTERPRETER_FWD_VARIABLE_DECLARATION_H
+#define CODECRAFTERS_INTERPRETER_FWD_VARIABLE_DECLARATION_H
+
+namespace lox::ast::stmt {
+struct VariableDeclaration;
+}
+
+#endif

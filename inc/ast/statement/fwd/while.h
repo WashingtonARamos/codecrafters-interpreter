@@ -1,0 +1,8 @@
+﻿#ifndef CODECRAFTERS_INTERPRETER_FWD_WHILE_STATEMENT_H
+#define CODECRAFTERS_INTERPRETER_FWD_WHILE_STATEMENT_H
+
+namespace lox::ast::stmt {
+struct While;
+}
+
+#endif
